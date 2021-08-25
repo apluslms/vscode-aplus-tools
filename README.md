@@ -1,5 +1,7 @@
 # Aplus Tools
 
+**This project has been archived and it is not under development any longer.**
+
 Aplus Tools is a Visual Studio Code extension designed to facilitate the creation or editing of course content published
 on the [A+ platform](https://plus.cs.aalto.fi/). This extension eases the use of the
 [reStructuredText](https://docutils.sourceforge.io/rst.html) language used to created courses in A+. In addition, this
